@@ -1,8 +1,7 @@
 huggingface-hub==0.30.1
-matplotlib @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a8crvoz7ca/croot/matplotlib-suite_1713336381679/work
+matplotlib==3.8.4
 opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
-pandas @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b53hgou29t/croot/pandas_1718308972393/work/dist/pandas-2.2.2-cp312-cp312-macosx_11_0_arm64.whl#sha256=1956b71d1baac8b370fd9deac6100aadefda112447dca816a81ecbf3ea4eb3e6
 pytorch-forecasting==1.3.0
 pytorch-lightning==2.4.0
 pytorch-tabnet==4.1.0
